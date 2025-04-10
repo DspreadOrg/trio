@@ -1,0 +1,1 @@
+Use the FarsiFont.bin file in the current directory to replace the original font.bin file in the full_upgrade_package.

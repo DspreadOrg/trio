@@ -1,0 +1,1 @@
+int draw_png(int x, int y, u8 *png, u32 len);
